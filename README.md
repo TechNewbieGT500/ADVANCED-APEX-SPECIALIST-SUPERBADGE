@@ -17,7 +17,7 @@
 * `Aggregate SOQL queries`
 * `Complex SOQL queries`
 * `ConnectAPI namespace`
-* `Visualforce development
+* `Visualforce development`
 * `Data binding with Apex classes in Visualforce`
 * `Visualforce performance optimization`
 * `Code refactoring and reusability`
