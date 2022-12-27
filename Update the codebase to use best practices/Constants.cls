@@ -9,4 +9,7 @@ public class Constants {
     public static final String INVENTORY_ANNOUNCEMENTS = 'Inventory Announcements';
     public static final String ERROR_MESSAGE = 'An error has occurred, please take a screenshot with the URL and send it to IT.';
     public static final String STANDARD_PRICEBOOK_ID = '01sIw000001SfKEIA0';
+	//Delete 01sIw000001SfKEIA0 from the STANDARD_PRICEBOOK_ID after pasting
+	//Then on the query editor tab paste: SELECT Id FROM PriceBook2 WHERE Name = 'standard Price Book'
+	//Execute query, copy the generated Id and paste in the TANDARD_PRICEBOOK_ID
 }
